@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="jdbc:sqlite:G:/django-codes/LearnTestDrivenDevelopment/TDD&amp;DJANGO/003使用单元测试测试简单的首页/superlist/db" uuid="f241a8cc-78e6-4ff8-905d-deb52258eff7">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="SQLITE" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+    </data-source>
+  </component>
+</project>
