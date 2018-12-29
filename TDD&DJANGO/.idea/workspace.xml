@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28a5c155-840a-49bf-ae43-6caa14f9a017" name="Default Changelist" comment="" />
+    <list default="true" id="28a5c155-840a-49bf-ae43-6caa14f9a017" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003使用单元测试测试简单的首页/superlist/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004编写这些测试有什么用/superlist/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/003使用单元测试测试简单的首页/superlist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/003使用单元测试测试简单的首页/superlist/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/003使用单元测试测试简单的首页/superlist/lists/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/003使用单元测试测试简单的首页/superlist/lists/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/003使用单元测试测试简单的首页/superlist/lists/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/003使用单元测试测试简单的首页/superlist/lists/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/003使用单元测试测试简单的首页/superlist/superlist/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/003使用单元测试测试简单的首页/superlist/superlist/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/003使用单元测试测试简单的首页/superlist/superlist/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/003使用单元测试测试简单的首页/superlist/superlist/urls.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,24 +23,12 @@
     <SUITE FILE_PATH="coverage/TDD_DJANGO$Unittests_for_functional_tests_NewVisitorTest.coverage" NAME="Unittests for functional_tests.NewVisitorTest Coverage Results" MODIFIED="1546063328922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002使用unittest扩展功能测试" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/002使用unittest扩展功能测试/functional_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/001功能测试协助安装Django/functional_tests.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="35" />
+            <state relative-caret-position="316">
+              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -44,6 +42,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -53,28 +54,19 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1098" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1100" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TDD&amp;DJANGO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TDD&amp;DJANGO" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -156,6 +148,7 @@
       <option name="presentableId" value="Default" />
       <updated>1546062374586</updated>
       <workItem from="1546062376268" duration="2044000" />
+      <workItem from="1546067464769" duration="1716000" />
     </task>
     <servers />
   </component>
@@ -165,16 +158,16 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2044000" />
+    <option name="totallyTimeSpent" value="3760000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2533512" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32918397" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32963988" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Python Console" order="4" />
@@ -209,13 +202,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/003使用单元测试测试简单的首页/superlist/lists/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/002使用unittest扩展功能测试/functional_tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="316">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="48" />
         </state>
       </provider>
     </entry>

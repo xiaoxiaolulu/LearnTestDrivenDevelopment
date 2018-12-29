@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'superlist.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'base_orm',
+        'NAME': 'bbs',
         'USER': 'root',
         'PASSWORD': '123456',
         'HOST': '127.0.0.1',
